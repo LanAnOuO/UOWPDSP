@@ -15,9 +15,9 @@ body {
 }
 /* Profile container */
 .profile {
-    max-width: 470px;
+    max-width: 450px;
     margin: 60px auto;
-    padding: 20px auto;
+    padding: 20px;
     background-color: #ffffff55;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
